@@ -1,4 +1,4 @@
-on: [status, push]
+on: status
 
 defaults:
   run:
